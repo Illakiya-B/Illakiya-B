@@ -8,7 +8,9 @@
 - 🔭 I'm currently working on **data analytics projects & ML models**
 - 🌱 I'm currently learning **advanced ML & cloud data engineering**
 - 👯 I'm looking to collaborate on **data science & analytics projects**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile)** | **[Email](mailto:youremail@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/illakiya-boopathy-58680630a
+
+)** | **[Email](mailto:illakhj14@gmail.com)**
 
 ---
 
@@ -49,8 +51,8 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="www.linkedin.com/in/illakiya-boopathy-58680630a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:illakhj14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
