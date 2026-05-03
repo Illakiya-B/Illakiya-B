@@ -33,7 +33,7 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Illakiya-B&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-![Snake animation](https://github.com/Illakiya-B/Illakiya-B/blob/output/github-contribution-grid-snale.svg)
+
 
 ##  Fun Side
 
