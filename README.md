@@ -8,9 +8,6 @@
 - 🔭 I'm currently working on **data analytics projects & ML models**
 - 🌱 I'm currently learning **advanced ML & cloud data engineering**
 - 👯 I'm looking to collaborate on **data science & analytics projects**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/illakiya-boopathy-58680630a
-
-)** | **[Email](mailto:illakhj14@gmail.com)**
 
 ---
 
