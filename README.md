@@ -45,15 +45,6 @@
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/illakiya-boopathy-58680630a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:illakhj14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
 ## 🔥 Fun Side
 
 * 🎯 Athlete mindset = consistency in coding
