@@ -26,23 +26,18 @@
   <sub>NumPy · Pandas · Scikit-learn · Power BI · Excel</sub>
 </p>
 
-# 📊 GitHub Stats:
-  
- <p align="center">
-  <a href="https://beacons.ai/IllakiyaB">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Illakiya-B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illakiya-B&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
-</p>
+#  GitHub Stats:
+<div>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Illakiya-B&show_icons=true&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
 
-## 🔥 Fun Side
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Illakiya-B&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
+##  Fun Side
 
 * 🎯 Athlete mindset = consistency in coding
 * 🚀 Always improving — in sports & tech
 
----
-
-## 💬 Quote
 
 > "Consistency beats intensity when intensity is inconsistent."
 
