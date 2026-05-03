@@ -13,7 +13,6 @@ generate:
 runs-on: ubuntu-latest
 timeout-minutes: 10
 
-```
 steps:
   # 1. Checkout repo
   - name: Checkout Repository
@@ -39,4 +38,3 @@ steps:
       publish_dir: ./dist
       publish_branch: output
       commit_message: "Update snake animation [skip ci]"
-```
