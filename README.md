@@ -1,7 +1,7 @@
 ## 👋Het,I'm Illakiya!!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFA1CFF&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Enthusiast;Athlete+%7C+High+Jump;Turning+Data+Into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFA1CFF&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Athlete" />
 </p>
 
 
@@ -14,8 +14,8 @@
 
 ## ⚡ What I Do
 
-+ Data Analysis (Excel, Power BI)
-+ Machine Learning (Python, R)
++ Data Analysis 
++ Machine Learning 
 + Dashboard Development
 + Sports Analytics
 
