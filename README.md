@@ -28,11 +28,12 @@
 
 # 📊 GitHub Stats:
   
-  <div>
-    <a href="https://beacons.ai/Illakiya-B">
-    <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Illakiya-B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Illakiya-B&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
+ <p align="center">
+  <a href="https://beacons.ai/IllakiyaB">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Illakiya-B&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illakiya-B&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
+</p>
 
 ## 🔥 Fun Side
 
