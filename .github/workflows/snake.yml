@@ -14,7 +14,7 @@ runs-on: ubuntu-latest
 
 ```
 steps:
-  - name: Generate Snake SVGs
+  - name: Generate Snake
     uses: Platane/snk@v3
     with:
       github_user_name: Illakiya-B
@@ -22,10 +22,11 @@ steps:
         dist/github-snake.svg
         dist/github-snake-dark.svg?palette=github-dark
 
-  - name: Deploy to output branch
+  - name: Deploy
     uses: peaceiris/actions-gh-pages@v3
     with:
-      publish_dir: ./dist
+      publish_dir: dist
       publish_branch: output
       github_token: ${{ secrets.GITHUB_TOKEN }}
 ```
+
