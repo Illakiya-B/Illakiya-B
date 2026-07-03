@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFFA1CFF&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Athlete" />
 </p>
 
-- 🔭 I'm currently working on **data analytics projects & ML models**
-- 🌱 I'm currently learning **advanced ML & cloud data engineering**
-- 👯 I'm looking to collaborate on **data science & analytics projects**
+-  I'm currently working on **data analytics projects & ML models**
+-  I'm currently learning **advanced ML & cloud data engineering**
+-  I'm looking to collaborate on **data science & analytics projects**
 
 
 ##  What I Do
@@ -37,8 +37,8 @@
 
 ##  Fun Side
 
-* 🎯 Athlete mindset = consistency in coding
-* 🚀 Always improving - in sports & tech
+*  Athlete mindset = consistency in coding
+*  Always improving - in sports & tech
 
 
 > "Consistency beats intensity when intensity is inconsistent."
